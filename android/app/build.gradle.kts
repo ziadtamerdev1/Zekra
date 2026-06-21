@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.zekra1"
-    compileSdk = 34
+    compileSdk = 35
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
